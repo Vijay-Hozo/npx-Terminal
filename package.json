@@ -1,0 +1,42 @@
+{
+  "name": "vijay",
+  "version": "1.0.5",
+  "description": "vijay's Introduction on Terminal.",
+  "exports": "./index.js",
+  "bin": {
+    "gokulnath": "./bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "node ./bin/index.js",
+    "dev": "node ./bin/index.js",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijay-Hozo/npx-Terminal"
+  },
+  "keywords": [
+    "business",
+    "vijay",
+    "avijay",
+    "vijay-A",
+    "npm card",
+    "npx-card",
+    "npx business card"
+  ],
+  "author": "gokulnath",
+  "license": "MIT",
+  "files": [
+    "bin/index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Vijay-Hozo/npx-Terminal/issues"
+  },
+  "homepage": "https://github.com/Vijay-Hozo",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
