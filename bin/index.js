@@ -9,7 +9,7 @@ const options = {
   borderStyle: "round",
   width: 75,
   padding: 1,
-  borderColor: "#A7FF83",
+  borderColor: "#FFF200",
 };
 
 const data = {
