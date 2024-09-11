@@ -4,7 +4,7 @@ import chalk from "chalk";
 import boxen from "boxen";
 
 const options = {
-  title: " Hello there ! ",
+  title: "⚡ Hello there ! ⚡",
   titleAlignment: "center",
   borderStyle: "round",
   width: 75,
@@ -15,7 +15,7 @@ const options = {
 const data = {
   intro: chalk
     .hex("#FFFADD")
-    .bold("I'm Vijay, your friendly neighbourhood developer."),
+    .bold("I'm Vijay, your friendly neighbourhood developer👨🏻‍💻."),
   roles: chalk.hex("#97FFF4")(
     "FullStack Developer | UI/UX Designer | Pursuing BTech IT | Open Source Enthusiast | Pre-final year student | Tech Enthusiast | Freelancer"
   ),
