@@ -19,6 +19,6 @@ To give it a whirl, follow these simple steps:
 
 2. Open your terminal and simply enter the following command: ```npx vijay```
 
-Your introduction will appear in all its terminal glory. 🌟
+My introduction will appear in all its terminal glory. 🌟
 
 Thank you for trying it out, and happy coding! 💻😊
