@@ -1,6 +1,6 @@
 {
   "name": "@mr_vijay/vijay",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "vijay's Introduction on Terminal.",
   "exports": "./index.js",
   "bin": {
