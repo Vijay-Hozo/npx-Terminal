@@ -1,10 +1,10 @@
 {
-  "name": "@mr_vijay/vijay",
-  "version": "1.0.8",
-  "description": "vijay's Introduction on Terminal.",
+  "name": "vijay_a",
+  "version": "1.0.0",
+  "description": "Vijay's Introduction on Terminal.",
   "exports": "./index.js",
   "bin": {
-    "vijay": "bin/index.js"
+    "vijay": "./bin/index.js"
   },
   "type": "module",
   "scripts": {

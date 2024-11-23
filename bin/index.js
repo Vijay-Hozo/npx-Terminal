@@ -23,7 +23,7 @@ const data = {
   github: chalk.white.bold("https://github.com/") + chalk.green("Vijay-Hozo"),
   linkedin : chalk.white.bold("https://linkedin.com/in/") + chalk.blue("mr-vijay"),
   Socials: chalk.white.bold("https://shor.by/") + chalk.cyan("vijay-a"),
-  Portfolio: chalk.white.bold("https://") + chalk.hex("#97FFF4")("avijay.tech"),
+  Portfolio: chalk.white.bold("https://") + chalk.hex("#97FFF4")("avijay.me"),
   gmail: chalk.red("avijay.personal@gmail.com"),
   labelTwitter: chalk.bgHex("#FFF").hex("#00acee").bold("           Twitter"),
   labelGitHub: chalk.bgBlack.white.bold("     GitHub"),
